@@ -12,10 +12,10 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Duy Pham',
+  title: "Hi all, I'm Duy",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+    "I'm passionate web developer having an experience of web applications with HTML/CSS, Javascript, Typescript, React.js, Next.js and AWS development.",
   resumeLink:
     'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
 };
@@ -28,11 +28,9 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  linkedin: 'https://www.linkedin.com/in/pham-minh-duy-5a954a160/',
+  github: 'https://github.com/PMinhDuy',
+  facebook: 'https://www.facebook.com/nuocmat.roi.77582/',
 };
 
 export const skillsSection: SkillsSectionType = {
